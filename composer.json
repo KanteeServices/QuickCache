@@ -1,0 +1,16 @@
+{
+    "name": "kaante/quick-cache",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kaante\\QuickCache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KanteeJump",
+            "email": "weedjump8@gmail.com"
+        }
+    ],
+    "require": {}
+}
